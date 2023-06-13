@@ -10,8 +10,6 @@ The first version of PERFUM was submitted to the U.S. EPA in the summer of 2004.
 
 The current version of the model is version 3.0. This version includes the capability to use AERMOD or CALPUFF, in addition to ISCST3, for the dispersion calculations. The download below includes all of the files needed to run PERFUM, and also includes a user’s manual. 
 
-PERFUM was developed and is being supported with funding sponsorship from Arysta LifeSciences Corporation.
-
 
 **PERFUM End-User License Agreement**
 
